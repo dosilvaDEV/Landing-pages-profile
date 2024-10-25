@@ -1,2 +1,2 @@
 # Landing-pages-profile
-Landing Pages Profile é um portfólio pessoal em Angular que exibe informações profissionais, projetos e habilidades. Com link para meu GitHub, permite aos visitantes explorar repositórios e contribuições, oferecendo uma visão organizada e atraente do meu trabalho.
+O projeto Landing Pages Profile é um portfólio pessoal desenvolvido em Angular, criado para exibir minhas informações profissionais, projetos e habilidades. Ele inclui um link direto para o meu perfil no GitHub, permitindo que visitantes explorem meus repositórios e contribuições de código. Este projeto visa fornecer uma visão geral organizada e visualmente atraente da minha trajetória e competências, facilitando o contato e acesso ao meu trabalho.
